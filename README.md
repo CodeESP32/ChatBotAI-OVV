@@ -1,4 +1,3 @@
-ChatBotAI-OVV.
 Tôi làm Chatbot ai từ mạch ESP32C3 Supermini + max98357a + inmp441 + pin và mạch sạc cùng mạch boot 5v.
 Chia sẻ mã nguồn cho các bạn tham khảo và chỉnh sửa.
 Có sơ đồ ghép linh kiện cụ thể.
